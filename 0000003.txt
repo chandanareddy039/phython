@@ -1,0 +1,39 @@
+- cd path
+- cd
+- cd~
+- echo
+- ls
+- ls -l
+- ls -a
+- github.com/sys16
+- touch filename
+       it will create an empty file
+- cat filename 
+     to display the content of the file
+- nano filename
+       to edit the content of the file
+       ctrl+x to exit from the editor
+- echo{1..10}
+- echo{a..z}
+- echo 100{a..z}.txt
+- git init
+- git clone projectgitlink 
+- git config user.email 
+- git config user.name
+git add  filename
+git add *
+git add  *
+git add *.txt
+git add *.py
+git status 
+git remote add:https://github.comgit remote -v 
+- localarea        staging area           github
+hello.txt
+hello1.txt           COMMIT    
+
+hello.txt              hello.txt
+
+
+hello1.txt
+git add
+mv prevfile updatedfilelocation
