@@ -1,0 +1,19 @@
+while
+syntax:
+intilization:
+while(cond)
+{
+stmts;
+}
+2.do while
+syntax:
+initilization;
+do
+{
+stmts;}
+while(cond)
+3.for loop
+syntax:
+for(init;cond;increment/decrement)
+{
+stmts;}
